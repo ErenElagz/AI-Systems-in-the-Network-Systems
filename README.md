@@ -64,8 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-For any questions or suggestions, please contact [Eray ELAGÖZ](mailto:eray.elagoz@example.com).
-
----
-
-Bu README dosyası, raporun GitHub'da paylaşılması için uygun bir şekilde düzenlenmiştir. Hem Türkçe hem de İngilizce olarak hazırlanmıştır.
+For any questions or suggestions, please contact [ErenElagz](mailto:erenelagoz@gmail.com).
