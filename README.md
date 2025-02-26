@@ -1,7 +1,3 @@
-### GitHub Readme File for "Ağ Trafiği Yönetiminde Yapay Zeka" Raporu
-
----
-
 #### Türkçe
 
 # Ağ Trafiği Yönetiminde Yapay Zeka
